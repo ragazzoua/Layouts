@@ -13,9 +13,9 @@
         <Insets bottom="10" right="10"/>
     </padding>
 
-    <Button text="Ok"/>
-    <Button text="Cancel"/>
-    <Button text="Help"/>
+    <Button text="Ok" prefWidth="90"/>
+    <Button text="Cancel" prefWidth="90"/>
+    <Button text="Help" prefWidth="90"/>
     <!--<padding>-->
     <!--<Insets top="10"/>-->
     <!--</padding>-->
